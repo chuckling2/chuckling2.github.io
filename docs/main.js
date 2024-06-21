@@ -23,8 +23,8 @@ let bedUseRatio = 0;                // Were we oversubscribed for beds in the la
 
 
 // The size of the simulation area
-let rows = 50;
-let cols = 120;
+let rows = 240;
+let cols = 240;
 
 // let rows = 3;
 // let cols = 3;
