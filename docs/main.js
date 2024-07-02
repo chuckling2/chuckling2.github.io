@@ -7,7 +7,7 @@ let day = 1;
 // The amount of time(ms) taken between days - the speed of updates
 let timeout = 250;
 // nominal population. We'll use the 2019 UK population estimate
-let population = 80000;
+let population = 8000;
 
 
 // When we model costs we need to have some values to work from
@@ -23,7 +23,7 @@ let bedUseRatio = 0;                // Were we oversubscribed for beds in the la
 
 
 // The size of the simulation area
-let rows = 50;
+let rows = 25;
 let cols = 60;
 
 // The virus parameters we're currently using
