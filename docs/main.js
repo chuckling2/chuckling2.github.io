@@ -24,7 +24,7 @@ let bedUseRatio = 0;                // Were we oversubscribed for beds in the la
 
 // The size of the simulation area
 let rows = 50;
-let cols = 120;
+let cols = 60;
 
 // The virus parameters we're currently using
 let virus = new Virus(0.1, 5, 2, 0.5, 0, false);
